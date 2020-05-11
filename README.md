@@ -1,2 +1,2 @@
 # slack-client
-client that sends message to slack channels
+slack client that sends message to slack channel
